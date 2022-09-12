@@ -8,8 +8,7 @@ I've been learning Full Stack Development courses From last 3 year. I started wi
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rudra0016m@gmail.com](mailto:rudra0016m@gmail.com)
-* 🧠  I'm learning Nodejs
-
+* 🧠  Currently making command on Node js deeply.
 ### Skills
 
 <p align="left">
