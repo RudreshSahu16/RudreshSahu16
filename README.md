@@ -6,7 +6,7 @@ Full Stack Developer
 
 I've been learning Full Stack Development courses From last 3 year. I started with Basic Programming Language with getting good command over Python, then I started learning Frontend languages starting with HTML,CSS,Bootstrap,Javascript. After that I start Learning on Angular with restfull API's Integration with Django Framework for Backend.
 
-* 🌍  I'm based in India
+* 🌍  I'm belongs to India
 * ✉️  You can contact me at [rudra0016m@gmail.com](mailto:rudra0016m@gmail.com)
 * 🧠  Currently making command on Node js deeply.
 ### Skills
